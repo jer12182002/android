@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Class11_Assets</string>
+    <string name="loadImage">載入圖片</string>
+    <string name="loadText">載入文字</string>
+</resources>

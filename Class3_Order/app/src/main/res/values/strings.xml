@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Class3_Order</string>
+    <string name="tableNumber">桌號</string>
+    <string name="customer">一般顧客</string>
+    <string name="Vip">VIP</string>
+    <string name="main">主餐</string>
+    <string name="A_meal">A餐$100</string>
+    <string name="B_meal">B餐$150</string>
+    <string name="C_meal">C餐$200</string>
+    <string name="D_meal">D餐$250</string>
+    <string name="Beverage">附餐</string>
+    <string name="coffee">咖啡</string>
+    <string name="blackTea">紅茶</string>
+    <string name="checkOut">結帳</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Class9_Dialogs</string>
+    <string name="AlertDialog">Alert Dialog</string>
+    <string name="DialogWithList">Dialog With List</string>
+    <string name="Persistent_Single">Persistent Single</string>
+    <string name="Persistent_Multiple">Persistent Multiple</string>
+    <string name="Custom_Layout">Custom Layout</string>
+</resources>

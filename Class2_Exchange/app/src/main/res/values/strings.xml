@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Class2_Exchange</string>
+    <string name="USD">美金</string>
+    <string name="TWD">台幣</string>
+    <string name="Exchange">轉換</string>
+    <string name="Hint">請輸入美金金額</string>
+</resources>

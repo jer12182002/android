@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Class4_ChangeColor</string>
+    <string name="Foreground">前景色</string>
+    <string name="Background">背景色</string>
+    <string name="Red">紅色</string>
+    <string name="Green">綠色</string>
+    <string name="Blue">藍色</string>
+    <string name="Black">黑色</string>
+    <string name="White">白色</string>
+    <string name="StringColor">文字的顏色</string>
+    <string-array name="ColorSytle">
+        <item>@string/Foreground</item>
+        <item>@string/Background</item>
+    </string-array>
+
+</resources>

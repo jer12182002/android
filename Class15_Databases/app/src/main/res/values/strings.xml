@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Class15_Databases</string>
+    <string name="insert">新增</string>
+    <string name="update">修改</string>
+    <string name="delete">刪除</string>
+    <string name="query">查詢</string>
+    <string name="previous">上一筆</string>
+    <string name="next">下一筆</string>
+
+</resources>

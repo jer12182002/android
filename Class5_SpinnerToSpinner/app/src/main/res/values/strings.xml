@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Class5_SpinnerToSpinner</string>
+    <string-array name="Citys">
+        <item>台北市</item>
+        <item>台中市</item>
+        <item>高雄市</item>
+    </string-array>
+    <string-array name="SubCity1">
+        <item>信義區</item>
+        <item>內湖區</item>
+        <item>大安區</item>
+    </string-array>
+    <string-array name="SubCity2">
+        <item>東區</item>
+        <item>中區</item>
+        <item>南屯區</item>
+    </string-array>
+    <string-array name="SubCity3">
+        <item>鳳山區</item>
+        <item>仁武區</item>
+        <item>旗津區</item>
+    </string-array>
+</resources>

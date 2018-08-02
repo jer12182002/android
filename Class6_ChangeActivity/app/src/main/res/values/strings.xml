@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Class6_ChangeActivity</string>
+    <string name="Chinese">國文</string>
+    <string name="English">英文</string>
+    <string name="Math">數學</string>
+    <string name="Total">總分</string>
+    <string name="Caculate">計算</string>
+    <string name="Back">回上一頁</string>
+</resources>

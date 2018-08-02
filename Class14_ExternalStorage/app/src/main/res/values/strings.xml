@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Class14_ExternalStorage</string>
+    <string name="fileName">檔案名稱</string>
+    <string name="filePath">檔案路徑</string>
+    <string name="input">請輸入文字</string>
+    <string name="save">儲存</string>
+    <string name="append">附加</string>
+    <string name="delete">刪除</string>
+    <string name="mpublic">公開區</string>
+    <string name="mprivate">私有區</string>
+</resources>

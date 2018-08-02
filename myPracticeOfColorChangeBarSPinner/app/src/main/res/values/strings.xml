@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">myPracticeOfColorChangeBarSPinner</string>
+    <string name="red">紅色</string>
+    <string name="blue">藍色</string>
+    <string name="green">綠色</string>
+    <string name="showtext">文字顯示預覽</string>
+    <string-array name="backgroundcolor">
+        <item name="forecolor">前景色</item>
+        <item name="backcolor">後景色</item>
+
+    </string-array>
+
+
+</resources>
